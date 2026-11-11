@@ -1,0 +1,6 @@
+{
+  "name": "ClassQuest AI - ห้องเรียนผจญภัยด้วย AI",
+  "description": "เว็บแอปพลิเคชันเพื่อการศึกษาที่เปลี่ยนการเรียนในห้องเรียนให้เป็นเกมผจญภัย ผสาน AI Quest Generator, Gamification, XP, Level, Badge และการวิเคราะห์การเรียนรู้สำหรับนักเรียนและครู",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
